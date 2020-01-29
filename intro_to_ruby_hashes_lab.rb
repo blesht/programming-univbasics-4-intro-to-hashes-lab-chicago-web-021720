@@ -8,8 +8,8 @@ def my_hash
 end
 
 def pioneer
-  pioneer_hash = {name:"Grace Hopper"}
-  pioneer_hash
+  pioneer = {name:"Grace Hopper"}
+  pioneer
 end
 
 def id_generator
